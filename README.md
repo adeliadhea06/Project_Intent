@@ -103,7 +103,7 @@ Kedua disini kita akan membuat menu utamanya yang akan berjalan setelah SplashSc
                 android:layout_height="match_parent"
                 android:adjustViewBounds="true"
                 android:scaleType="centerCrop"
-                android:src="@drawable/background" />
+                android:src="@drawable/logo1" />
         
             <Button
                 android:id="@+id/btnHelloWorld"
@@ -165,7 +165,7 @@ Kedua disini kita akan membuat menu utamanya yang akan berjalan setelah SplashSc
 
 # Tampilan Design
 
-![tampilan desain](https://github.com/nadyakhorun/Intent-App/assets/115801823/c86a2350-492c-4859-a1ef-ce01313ad4be)
+![WhatsApp Image 2023-11-21 at 08 45 34](https://github.com/adeliadhea06/Project_Intent/assets/115794875/3b4c83b2-11aa-4bc7-9348-0f487a60260b)
 
 - Selanjutnya kita buka MainActivity.java untuk menambahkan code intent untuk masing-masing tombol.
 
@@ -430,7 +430,7 @@ e. Project Set Alarm = MainActivity.java (karena implicit intent jadi code untuk
                   android:id="@+id/background"
                   android:layout_width="match_parent"
                   android:layout_height="match_parent"
-                  android:background="@drawable/bg_count"
+                  android:background="@drawable/bg_1"
                   android:adjustViewBounds="true"
                   android:scaleType="centerCrop" />
             
@@ -614,7 +614,7 @@ e. Project Set Alarm = MainActivity.java (karena implicit intent jadi code untuk
                   android:layout_height="match_parent"
                   android:adjustViewBounds="true"
                   android:scaleType="centerCrop"
-                  android:src="@drawable/bg_twoact" />
+                  android:src="@drawable/bg_3" />
           
               <TextView
                   android:id="@+id/text_header_reply"
@@ -686,7 +686,7 @@ e. Project Set Alarm = MainActivity.java (karena implicit intent jadi code untuk
                   android:layout_height="match_parent"
                   android:adjustViewBounds="true"
                   android:scaleType="centerCrop"
-                  android:src="@drawable/bg_twoact" />
+                  android:src="@drawable/bg_3" />
           
               <TextView
                   android:id="@+id/text_header"
@@ -889,7 +889,8 @@ e. Project Set Alarm = MainActivity.java (karena implicit intent jadi code untuk
 
 Berikut ini adalah video hasil RUN dari aplikasi yang sudah dibuat.
 
-https://github.com/nadyakhorun/Intent-App/assets/115801823/1ea6253f-21a1-49a8-a158-68873134218c
+https://github.com/adeliadhea06/Project_Intent/assets/115794875/62e03fb0-c466-492c-831d-fa4ba77338fd
+
 
 # SELESAI, TERIMA KASIH
 
